@@ -457,6 +457,9 @@ body {
   margin-left: 16px;
   text-align: center;
 }
+.git{
+  background-color: #495dcf;
+}
 
 .footer {
   background-color: #242A45;
